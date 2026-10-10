@@ -127,4 +127,4 @@ Silinder warna Kuning, volume = 1538.6
 
 Berikut merupakan tempat untuk menampilkan screenshot hasil eksekusi program.
 
-![Screenshot Hasil Program](hasil.png)
+![Screenshot Hasil Program](output.png)
