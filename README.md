@@ -1,4 +1,4 @@
-# PBO - Bentuk OOP
+# PBO - 
 
 Proyek Java sederhana yang mendemonstrasikan konsep **Object-Oriented Programming (OOP)**
 menggunakan hierarki kelas bentuk geometri.
